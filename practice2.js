@@ -1,3 +1,4 @@
+// addition, division,tofixed and parsefloat
 var mathematics = 75.25;
 var biology = 65;
 var chemistry = 80;
